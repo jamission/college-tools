@@ -21,3 +21,6 @@ run the file
 11. if it's says done, then the .ics is saved. 
 12. go into your calendar app and import the calendar. 
 13. all done.
+
+extra notes:
+calendar events are repeating, no alarms
