@@ -1,6 +1,6 @@
 # what this is
 
-This creates a calendar for your class schedule to import into google/apple/ms calendar
+This creates a calendar in .ics format for your class schedule to import into google/apple/ms calendar
 
 # how to use
 
